@@ -1,0 +1,8 @@
+# ref: https://raw.githubusercontent.com/toptal/gitignore/master/templates/CodeBlocks.gitignore
+
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+# generated directories
+bin/
+obj/
